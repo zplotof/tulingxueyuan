@@ -25,7 +25,6 @@ yueyue = PythonStudent()
 print (yueyue.age)
 print (yueyue.name)
 yueyue.doHomework()
-haha = PythonStudent()
 
 
 
